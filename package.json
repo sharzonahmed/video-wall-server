@@ -1,0 +1,12 @@
+{
+  "name": "video-wall-server",
+  "version": "1.0.0",
+  "description": "WebSocket server for syncing video wall",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.0.0"
+  }
+}
